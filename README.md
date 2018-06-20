@@ -16,4 +16,4 @@ foo.sublime-snippet
 DocBlockr // php Comment plugins
 
 
-alignment // ctrl + alt + a
+alignment // ctrl + alt + a plugin
