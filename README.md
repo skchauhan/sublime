@@ -11,3 +11,6 @@ Key Bindings
 Snippet
 
 foo.sublime-snippet
+
+
+DocBlockr // php Comment plugins
