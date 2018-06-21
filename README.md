@@ -17,3 +17,9 @@ DocBlockr // php Comment plugins
 
 
 alignment // ctrl + alt + a plugin
+
+
+php getters and setters // for set and get in oops plugins
+
+phpconstructor   // plugins   key => generate contructor for class
+
