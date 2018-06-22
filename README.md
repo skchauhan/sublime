@@ -23,3 +23,4 @@ php getters and setters // for set and get in oops plugins
 
 phpconstructor   // plugins   key => generate contructor for class
 
+sublimelinter // php helper
