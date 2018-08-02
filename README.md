@@ -24,3 +24,18 @@ php getters and setters // for set and get in oops plugins
 phpconstructor   // plugins   key => generate contructor for class
 
 sublimelinter // php helper
+
+
+
+Sidebar Tools
+PHP Companion
+Material Theme
+Laravel Blade Highlighter
+jquery
+Emmet
+DocBlockr
+BracketHighlighter
+Blade Snipppets
+Alignment
+AdvancedNewFile
+A File ICon
